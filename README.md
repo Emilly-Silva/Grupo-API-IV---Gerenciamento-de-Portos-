@@ -39,11 +39,11 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 ## Tecnologias Utilizadas
 
-* Jira Software
-* Power BI
-* Microsoft Excel
-* Slack
-* Python (Colab)
+* Jira Software;
+* Power BI;
+* Microsoft Excel;
+* WhatsApp;
+* Python (Colab).
 
 
 
