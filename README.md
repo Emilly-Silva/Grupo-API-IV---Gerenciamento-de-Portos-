@@ -57,14 +57,26 @@ O projeto tem como objetivo ajudar e facilitar na utilização da plataforma Git
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como síndico, quero abrir solicitações de vistoria predial para atender à legislação de meu município                                                    | 5          | 1      |
-| 2    | Alta       | Como atendente, quero gerenciar as solicitações de vistoria para agendar atendimento                                                                    | 8          | 1      |
-| 3    | Alta       | Como síndico, quero receber o laudo da vistoria predial para anexar ao processo de auditoria da prefeitura                                               | 5          | 2      |
-| ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
-| 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
+| 1    |  ---      | Como analista de dados, quero identificar e listar todas as fontes de dados disponíveis da ANTAQ, para que eu possa garantir que todas as informações necessárias para o projeto sejam consideradas.                                                    |   ---        | 1      |
+| 2    |  ---      |  Como analista, quero definir indicadores de eficiência relevantes para o projeto, para que as análises futuras sejam focadas em métricas importantes e validadas pelo cliente.                                                                    |  ---         | 1      |
+| 3    |  ---      | Como desenvolvedor, quero criar e configurar o repositório no GitHub com README inicial, para que o time tenha um ambiente organizado para versionamento e colaboração.                                               |   ---        | 1      |
+| 4  | ---      | Como analista de dados, quero extrair os dados da ANTAQ utilizando Google Colab, para que eu possa automatizar o processo de obtenção dos dados para análise.                                                                                                                                                     |   ---      | 1    |
+| 5  |    ---   | Como analista de dados, quero limpar e normalizar os dados extraídos, para que a base inicial esteja pronta e confiável para ser utilizada nas análises.                                                                                                                                                     |   ----      | 1    |
+| 6   | ---      | Como analista, quero preparar e disponibilizar o dataset final em formato definido (CSV), para que ele esteja pronto para ser utilizado no desenvolvimento do projeto.     | ---         | 2      |
+| 7   | ---      | Como analista, quero filtrar os dados relevantes para as análises, para que o projeto trabalhe somente com informações úteis e otimize o processamento.     | ---         | 2      |
+| 8   | ---      | Como desenvolvedor de BI, quero construir um protótipo inicial do dashboard no Power BI, para que possamos validar o formato e funcionalidades básicas da visualização     | ---         | 2      |
+| 9   | ---      | Como usuário do dashboard, quero visualizar um ranking dos terminais baseado em eficiência, para que eu possa facilmente identificar os melhores e piores desempenhos.     | ---         | 2      |
+| 10   | ---      | Como usuário do dashboard, quero utilizar filtros básicos para segmentar os dados, para que eu possa analisar informações específicas conforme a necessidade.     | ---         | 2      |
+| 11   | ---      | Como desenvolvedor backend, quero integrar o código Python que manipula os dados com o dataset em CSV, para que o sistema funcione de forma integrada e automatizada.     | ---         | 2      |
+| 12   | ---      | Como analista de dados, quero incluir análises detalhadas dos tempos de operação e paradas portuárias, para que possamos entender melhor os gargalos e tempos de espera.     | ---         | 3     |
+| 13   | ---      | Como usuário do dashboard, quero visualizar informações sobre as principais cargas movimentadas nos portos, para que eu possa analisar os tipos de cargas e suas movimentações.     | ---         | 3      |
+| 14   | ---      | Como tester, quero validar que o dashboard funciona bem em diferentes dispositivos e é fácil de usar, para que os usuários tenham uma boa experiência independente do acesso.     | ---         | 3      |
+| 15   | ---      | Como gerente de projeto, quero entregar os documentos DoR e DoD revisados e atualizados, para que o processo esteja formalizado e claro para todos.     | ---         | 3      |
+| 16   | ---      | Como responsável pela comunicação, quero preparar uma apresentação final em inglês, para que possamos apresentar o projeto para a Feira de Soluções e demais stakeholders.     | ---         | 3      |
+| 17   | ---      | Como desenvolvedor, quero publicar o projeto completo no GitHub, para que ele fique acessível e documentado para futuras consultas ou evoluções.     | ---         | 3      |
 
 
-  
+
 # Registro das Sprints :hourglass:
 
 | Sprint            | Previsão   | Status   | Histórico |
