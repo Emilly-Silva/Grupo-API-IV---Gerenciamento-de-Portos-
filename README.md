@@ -3,6 +3,7 @@
 ## *Port Insight*
 Foco em inteligência e análise de operações portuárias
 
+</span>
 
 # Aprendizado por Projeto Integrado (API IV)
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
