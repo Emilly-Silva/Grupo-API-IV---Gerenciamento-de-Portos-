@@ -34,7 +34,8 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 
 # Objetivo do Projeto :pushpin:
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
+Nosso foco principal com o projeto é desenvolver uma plataforma de BI que disponibilize informações sobre a eficiência portuária com base nos tempos de processamentos nos portos brasileiros e dados específicos do setor.
+O projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
 * Centralizar os trabalhos e projetos;
 * Organizar e estruturar as informações;
 * Versionar e controlar as alterações;
