@@ -52,28 +52,29 @@ Suas necessidades consistem em acompanhar métricas de eficiência operacional. 
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
 | 01     | Extração de dados, limpeza, normalização, merge e dataset inicial consolidado.                        | Concluído|
-| 02     |  Implementação de indicadores de eficiência, ranking e protótipo em Power BI.                        | Em andamento |
+| 02     |  Implementação de indicadores de eficiência, ranking e protótipo em Power BI.                        | A fazer |
+| 03     |  Análises de tempos de operação e paradas, módulo de cargas movimentadas, testes de usabilidade, documentação final, apresentação e publicação do projeto no GitHub.                        | Planejado |
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve permitir a geração de uma base inicial consolidada (Carga + Atracação).
+- O sistema deve registrar corretamente o lead time de atracação em horas.
+- Métricas coletadas: completude dos dados (sem valores ausentes nas colunas-chave) e consistência de datas/IDs.
 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- Feedback qualitativo sobre clareza e usabilidade da base.
+- Confirmação de que a base atende às primeiras necessidades de análise (indicadores na próxima sprint).
 
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+- Ajustes pós 1ª Sprint.
+- Implementar indicadores de eficiência (tempo médio de operação, produtividade por terminal, etc.).
+- Disponibilizar dataset final em formato CSV no GitHub.
+- Criar protótipo inicial em Power BI para visualização dos resultados. 
 
 ---
 
@@ -81,6 +82,7 @@ Suas necessidades consistem em acompanhar métricas de eficiência operacional. 
 - Prints de tela  
 - Fluxos ou protótipos  
 - Vídeo (MVP)  
+
 
 
 
