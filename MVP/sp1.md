@@ -79,8 +79,10 @@ Suas necessidades consistem em acompanhar métricas de eficiência operacional. 
 ---
 
 ## 📂 Anexos / Evidências
+| Sprint            |  Histórico |
 | Registro MVP 1ª Sprint |  [PRINT](docsevidences/rg1.md). |
  
+
 
 
 
