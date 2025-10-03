@@ -6,11 +6,26 @@
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+Nesta primeira entrega, foi desenvolvido um pipeline de tratamento de dados no Google Colab que:
+- Extrai e organiza dados das bases AnoCarga e AnoAtracação (2021 a 2025).
+- Seleciona apenas colunas de interesse para análises.
+- Calcula o lead time de atracação (em horas).
+- Realiza a correlação entre cargas e atracações (via IDAtracacao).
+- Constrói um dataset final consolidado com códigos de país de destino, mercadoria e cidade de origem no Brasil.
+  
+Funcionalidades principais incluídas:
+- Extração e pré-processamento de dados da ANTAQ.
+- Cálculo do tempo médio de atracação.
+- Junção de dicionários auxiliares (códigos de país, mercadoria e cidade).
+- Geração de dataset inicial unificado.
 
+Limitações conhecidas:
+- Indicadores de eficiência ainda não foram implementados (ficam para a próxima etapa).
+- Base consolidada contém apenas dados selecionados (escopo reduzido).
+
+Escopo reduzido:
+- Entrega mínima de uma base limpa e correlacionada, servindo como alicerce para indicadores e dashboards futuros.
+  
 ---
 
 ## 👥 Personas / Usuários-Alvo
@@ -63,6 +78,7 @@
 - Prints de tela  
 - Fluxos ou protótipos  
 - Vídeo (MVP)  
+
 
 
 
