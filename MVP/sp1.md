@@ -30,12 +30,10 @@ Nesta primeira entrega, foi desenvolvido um pipeline de tratamento de dados no G
 
 ## 👥 Personas / Usuários-Alvo
 - **Analista de Dados Portuários:**
-Necessidades: ter acesso a dados organizados e confiáveis para análises.
-Dores atendidas: elimina a necessidade de limpar e padronizar manualmente bases brutas da ANTAQ.
+Suas necessidades consistem em ter acesso a dados organizados e confiáveis para análises. Eliminando a necessidade de limpar e padronizar manualmente bases brutas da ANTAQ.
 
 - **Gestor Portuário / Tomador de Decisão:**
-Necessidades: acompanhar métricas de eficiência operacional.
-Dores atendidas: passa a ter uma base inicial estruturada para gerar relatórios de desempenho.   
+Suas necessidades consistem em acompanhar métricas de eficiência operacional. Passando a ter uma base inicial estruturada para gerar relatórios de desempenho.   
 
 ---
 
@@ -83,6 +81,7 @@ Dores atendidas: passa a ter uma base inicial estruturada para gerar relatórios
 - Prints de tela  
 - Fluxos ou protótipos  
 - Vídeo (MVP)  
+
 
 
 
