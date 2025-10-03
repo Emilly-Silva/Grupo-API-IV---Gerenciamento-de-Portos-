@@ -13,17 +13,17 @@ Nesta primeira entrega, foi desenvolvido um pipeline de tratamento de dados no G
 - Realiza a correlação entre cargas e atracações (via IDAtracacao).
 - Constrói um dataset final consolidado com códigos de país de destino, mercadoria e cidade de origem no Brasil.
   
-Funcionalidades principais incluídas:
+**Funcionalidades principais incluídas:**
 - Extração e pré-processamento de dados da ANTAQ.
 - Cálculo do tempo médio de atracação.
 - Junção de dicionários auxiliares (códigos de país, mercadoria e cidade).
 - Geração de dataset inicial unificado.
 
-Limitações conhecidas:
+**Limitações conhecidas:**
 - Indicadores de eficiência ainda não foram implementados (ficam para a próxima etapa).
 - Base consolidada contém apenas dados selecionados (escopo reduzido).
 
-Escopo reduzido:
+**Escopo reduzido:**
 - Entrega mínima de uma base limpa e correlacionada, servindo como alicerce para indicadores e dashboards futuros.
   
 ---
@@ -78,6 +78,7 @@ Escopo reduzido:
 - Prints de tela  
 - Fluxos ou protótipos  
 - Vídeo (MVP)  
+
 
 
 
