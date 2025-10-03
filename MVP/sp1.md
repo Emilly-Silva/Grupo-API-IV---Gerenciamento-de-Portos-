@@ -3,8 +3,10 @@
 ## 🎯 Objetivo do MVP
 - Qual problema resolve?
   Hoje os dados da ANTAQ estão distribuídos em múltiplas bases, com formatos complexos e não padronizados, o que dificulta análises rápidas de eficiência dos terminais portuários.
+  
 - Qual hipótese será validada?
   Que é possível extrair, limpar e correlacionar dados das bases da ANTAQ, gerando uma base inicial estruturada para cálculo de indicadores de eficiência portuária.
+  
 - Qual valor será entregue ao usuário final?
   Uma primeira versão da base de dados consolidada e confiável, servindo de insumo para análises de desempenho e eficiência portuária.
 
@@ -68,6 +70,7 @@
 - Prints de tela  
 - Fluxos ou protótipos  
 - Vídeo (MVP)  
+
 
 
 
