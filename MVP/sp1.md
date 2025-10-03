@@ -51,8 +51,8 @@ Suas necessidades consistem em acompanhar métricas de eficiência operacional. 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     | Extração de dados, limpeza, normalização, merge e dataset inicial consolidado.                        | Concluído|
+| 02     |  Implementação de indicadores de eficiência, ranking e protótipo em Power BI.                        | Em andamento |
 
 ---
 
@@ -81,6 +81,7 @@ Suas necessidades consistem em acompanhar métricas de eficiência operacional. 
 - Prints de tela  
 - Fluxos ou protótipos  
 - Vídeo (MVP)  
+
 
 
 
