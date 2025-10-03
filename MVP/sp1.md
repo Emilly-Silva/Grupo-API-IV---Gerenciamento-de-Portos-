@@ -1,4 +1,4 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP - ANÁLISE DE EFICIÊNCIA DE TERMINAIS PORTUÁRIOS
 
 ## 🎯 Objetivo do MVP
 > Descrever de forma clara qual é o propósito do MVP:  
@@ -25,8 +25,11 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US1 | Como analista de dados, quero identificar e listar todas as fontes de dados disponíveis da ANTAQ, para que eu possa garantir que todas as informações necessárias para o projeto sejam consideradas.         | Alta       | 3   |
+| US2 | Como desenvolvedor, quero criar e configurar o repositório no GitHub com README inicial, para que o time tenha um ambiente organizado para versionamento e colaboração.       | Média      | 1  |
+| US3 | Como analista de dados, quero extrair os dados da ANTAQ utilizando Google Colab, para que eu possa automatizar o processo de obtenção dos dados para análise.     | Alta      | 2 |
+| US4 | Como analista de dados, quero limpar e normalizar os dados extraídos, para que a base inicial esteja pronta e confiável para ser utilizada nas análises.    | Média     | 2 |
+
 
 ---
 
@@ -63,4 +66,5 @@
 - Prints de tela  
 - Fluxos ou protótipos  
 - Vídeo (MVP)  
+
 
