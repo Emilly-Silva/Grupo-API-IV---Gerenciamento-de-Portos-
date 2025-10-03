@@ -79,9 +79,8 @@ Suas necessidades consistem em acompanhar métricas de eficiência operacional. 
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+| Registro MVP | (docs evidences/rg1.md) |
+
 
 
 
