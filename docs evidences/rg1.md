@@ -1,4 +1,4 @@
-## Registros *1ª Sprint* - ANÁLISE DE EFICIÊNCIA DE TERMINAIS PORTUÁRIOS - 1ª Sprint
+## Registros *1ª Sprint* - ANÁLISE DE EFICIÊNCIA DE TERMINAIS PORTUÁRIOS 
 
 ![WhatsApp Image 2025-10-03 at 10 09 16](https://github.com/user-attachments/assets/2685a302-0ce5-468e-81ef-05d22f7b4560)
 ![WhatsApp Image 2025-10-03 at 10 09 15](https://github.com/user-attachments/assets/f8344a51-9a7f-45e6-a951-15c57724c8bf)
