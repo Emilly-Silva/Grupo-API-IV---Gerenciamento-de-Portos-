@@ -79,13 +79,14 @@ Suas necessidades consistem em acompanhar métricas de eficiência operacional. 
 ---
 
 ## 📂 Anexos / Evidências
-| Registro          |  Histórico |
-|-------------------|-----------|
-| MVP 1ª Sprint |  [Print](../docs%20evidences/rg1.md) |
+| Registro          |  Histórico | Relatório MVP|
+|-------------------|-----------|-----------|
+| MVP 1ª Sprint |  [Print](../docs%20evidences/rg1.md) | [RelatórioMVP_1ª Sprint.docx](https://github.com/user-attachments/files/22985477/RelatorioMVP_1.Sprint.docx)
 
 
 
  
+
 
 
 
