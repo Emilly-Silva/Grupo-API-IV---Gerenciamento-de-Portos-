@@ -1,4 +1,4 @@
-# 📌 MVP - ANÁLISE DE EFICIÊNCIA DE TERMINAIS PORTUÁRIOS
+# 📌 MVP - ANÁLISE DE EFICIÊNCIA DE TERMINAIS PORTUÁRIOS - 3ª Sprint
 
 ## 🎯 Objetivo do MVP
 - Hoje os dados da ANTAQ estão distribuídos em múltiplas bases, com formatos complexos e não padronizados, o que dificulta análises rápidas de eficiência dos terminais portuários. Nossa hipótese validada é que foi possível extrair, limpar e correlacionar dados das bases da ANTAQ, gerando uma base inicial estruturada para cálculo de indicadores de eficiência portuária. O valor que será entregue ao cliente final, seria uma primeira versão da base de dados consolidada e confiável, servindo de insumo para análises de desempenho e eficiência portuária.
@@ -81,4 +81,4 @@ Suas necessidades consistem em acompanhar métricas de eficiência operacional. 
 ## 📂 Anexos / Evidências
 | Registro          |  Histórico |
 |-------------------|-----------|
-| MVP 1ª Sprint |  [Print](../docs%20evidences/rg3.md) |
+| MVP 3ª Sprint |  [Print](../docs%20evidences/rg3.md) |
