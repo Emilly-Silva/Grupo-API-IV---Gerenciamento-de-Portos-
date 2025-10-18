@@ -87,4 +87,4 @@ O projeto tem como objetivo ajudar e facilitar na utilização da plataforma Git
 | 01                | 03/10/2025 | Concluído  | [MVP](MVP/sp1.md)  |
 | 02                | 31/10/2025 | A fazer  | [MVP](MVP/sp2.md)  |
 | 03                | 14/11/2025 | A fazer  | [MVP](MVP/sp3.md)  |
-| Feira de Soluções | 04/12/2025 | A fazer  | [Produto Final](../docs%20evidences/feiradesoluções.md)  |
+| Feira de Soluções | 04/12/2025 | A fazer  | [Produto Final](/docs%20evidences/feira%de%soluções.md)  |
