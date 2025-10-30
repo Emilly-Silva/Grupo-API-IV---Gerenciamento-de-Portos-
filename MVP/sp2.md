@@ -40,7 +40,7 @@ Entrega de uma versão funcional do sistema de BI, com backend automatizado, dat
 ---
 
 ## 👥 Personas / Usuários-Alvo
--👩‍💻 **Analista de Dados Portuários:**
+👩‍💻 **Analista de Dados Portuários:**
 Necessita de acesso rápido a dados confiáveis e filtráveis para gerar análises e relatórios sem retrabalho de limpeza e padronização.
 
 **👨‍✈️ Gestor Portuário / Tomador de Decisão:**
