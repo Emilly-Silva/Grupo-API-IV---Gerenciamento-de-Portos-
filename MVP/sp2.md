@@ -8,25 +8,29 @@ O valor entregue ao cliente é uma plataforma analítica funcional, que permite 
 ---
 
 ## 📝 Descrição da Solução
-Nesta primeira entrega, foi desenvolvido um pipeline de tratamento de dados no Google Colab que:
-- Extrai e organiza dados das bases AnoCarga e AnoAtracação (2021 a 2025).
-- Seleciona apenas colunas de interesse para análises.
-- Calcula o lead time de atracação (em horas).
-- Realiza a correlação entre cargas e atracações (via IDAtracacao).
-- Constrói um dataset final consolidado com códigos de país de destino, mercadoria e cidade de origem no Brasil.
-  
-**Funcionalidades principais incluídas:**
-- Extração e pré-processamento de dados da ANTAQ.
-- Cálculo do tempo médio de atracação.
-- Junção de dicionários auxiliares (códigos de país, mercadoria e cidade).
-- Geração de dataset inicial unificado.
+Durante a 2ª Sprint, a equipe evoluiu o projeto de um pipeline de dados para uma solução de Business Intelligence funcional, com integração entre backend, base de dados e visualização em Power BI.
 
-**Limitações conhecidas:**
-- Indicadores de eficiência ainda não foram implementados (ficam para a próxima etapa).
-- Base consolidada contém apenas dados selecionados (escopo reduzido).
+As entregas contemplaram:
 
-**Escopo reduzido:**
-- Entrega mínima de uma base limpa e correlacionada, servindo como alicerce para indicadores e dashboards futuros.
+✅ Disponibilização do Dataset Final consolidado e filtrado para uso analítico.
+✅ Filtros de dados implementados, permitindo segmentação por terminal, tipo de operação, período e carga movimentada.
+✅ Protótipo inicial em Power BI, com visualizações de eficiência operacional.
+✅ Módulo de ranking de terminais, calculando o desempenho relativo de cada unidade.
+✅ Integração completa do backend em Python com a base de dados (CSV), garantindo automação no fluxo de atualização.
+✅ Definição dos indicadores de eficiência, incluindo métricas de tempo médio de operação, tempo de espera e produtividade por terminal.
+
+*Funcionalidades principais incluídas:*
+Integração backend ↔ CSV com consultas e atualizações automatizadas.
+Filtros básicos e rankings operacionais no sistema.
+Protótipo funcional em Power BI conectado à base tratada.
+Indicadores de eficiência definidos e testados.
+
+*Limitações resolvidas:*
+O dataset agora está limpo, completo e padronizado.
+O dashboard já apresenta os principais indicadores operacionais.
+
+*Escopo atingido:*
+Entrega de uma versão funcional do sistema de BI, com backend automatizado, dataset consolidado e visualização inicial dos indicadores de eficiência.
   
 ---
 
