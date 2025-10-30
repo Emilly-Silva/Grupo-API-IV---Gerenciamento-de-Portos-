@@ -40,11 +40,11 @@ Entrega de uma versão funcional do sistema de BI, com backend automatizado, dat
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Analista de Dados Portuários:**
-Suas necessidades consistem em ter acesso a dados organizados e confiáveis para análises. Eliminando a necessidade de limpar e padronizar manualmente bases brutas da ANTAQ.
+-👩‍💻 **Analista de Dados Portuários:**
+Necessita de acesso rápido a dados confiáveis e filtráveis para gerar análises e relatórios sem retrabalho de limpeza e padronização.
 
-- **Gestor Portuário / Tomador de Decisão:**
-Suas necessidades consistem em acompanhar métricas de eficiência operacional. Passando a ter uma base inicial estruturada para gerar relatórios de desempenho.   
+**👨‍✈️ Gestor Portuário / Tomador de Decisão:**
+Precisa visualizar o desempenho e eficiência entre terminais portuários em dashboards claros e interativos para embasar decisões estratégicas.
 
 ---
 
