@@ -9,9 +9,7 @@ O valor entregue ao cliente é uma plataforma analítica funcional, que permite 
 
 ## 📝 Descrição da Solução
 Durante a 2ª Sprint, a equipe evoluiu o projeto de um pipeline de dados para uma solução de Business Intelligence funcional, com integração entre backend, base de dados e visualização em Power BI.
-
 As entregas contemplaram:
-
 ✅ Disponibilização do Dataset Final consolidado e filtrado para uso analítico.
 ✅ Filtros de dados implementados, permitindo segmentação por terminal, tipo de operação, período e carga movimentada.
 ✅ Protótipo inicial em Power BI, com visualizações de eficiência operacional.
@@ -19,17 +17,17 @@ As entregas contemplaram:
 ✅ Integração completa do backend em Python com a base de dados (CSV), garantindo automação no fluxo de atualização.
 ✅ Definição dos indicadores de eficiência, incluindo métricas de tempo médio de operação, tempo de espera e produtividade por terminal.
 
-*Funcionalidades principais incluídas:*
+**Funcionalidades principais incluídas:**
 Integração backend ↔ CSV com consultas e atualizações automatizadas.
 Filtros básicos e rankings operacionais no sistema.
 Protótipo funcional em Power BI conectado à base tratada.
 Indicadores de eficiência definidos e testados.
 
-*Limitações resolvidas:*
+**Limitações resolvidas:**
 O dataset agora está limpo, completo e padronizado.
 O dashboard já apresenta os principais indicadores operacionais.
 
-*Escopo atingido:*
+**Escopo atingido:**
 Entrega de uma versão funcional do sistema de BI, com backend automatizado, dataset consolidado e visualização inicial dos indicadores de eficiência.
   
 ---
