@@ -9,6 +9,7 @@ O valor entregue ao cliente é uma plataforma analítica funcional, que permite 
 
 ## 📝 Descrição da Solução
 Durante a 2ª Sprint, a equipe evoluiu o projeto de um pipeline de dados para uma solução de Business Intelligence funcional, com integração entre backend, base de dados e visualização em Power BI.
+
 As entregas contemplaram:
 
 ✅ Disponibilização do Dataset Final consolidado e filtrado para uso analítico.
