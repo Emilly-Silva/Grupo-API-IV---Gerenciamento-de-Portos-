@@ -13,10 +13,15 @@ Durante a 2ª Sprint, a equipe evoluiu o projeto de um pipeline de dados para um
 As entregas contemplaram:
 
 ✅ Disponibilização do Dataset Final consolidado e filtrado para uso analítico.
+
 ✅ Filtros de dados implementados, permitindo segmentação por terminal, tipo de operação, período e carga movimentada.
+
 ✅ Protótipo inicial em Power BI, com visualizações de eficiência operacional.
+
 ✅ Módulo de ranking de terminais, calculando o desempenho relativo de cada unidade.
+
 ✅ Integração completa do backend em Python com a base de dados (CSV), garantindo automação no fluxo de atualização.
+
 ✅ Definição dos indicadores de eficiência, incluindo métricas de tempo médio de operação, tempo de espera e produtividade por terminal.
 
 **Funcionalidades principais incluídas:**
