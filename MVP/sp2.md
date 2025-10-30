@@ -38,14 +38,14 @@ Suas necessidades consistem em acompanhar métricas de eficiência operacional. 
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
-| ID  | User Story                                                                 | Prioridade | Estimativa |
+| ID  | Prioridade   | User Story | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| ID1   |    Alta   | Como analista, quero preparar e disponibilizar o dataset final em formato definido (CSV), para que ele esteja pronto para ser utilizado no desenvolvimento do projeto.     | 2        | 2      |
-| ID2   | Média     | Como analista, quero filtrar os dados relevantes para as análises, para que o projeto trabalhe somente com informações úteis e otimize o processamento.     | 4       | 2      |
-| ID3   |  Alta     | Como desenvolvedor de BI, quero construir um protótipo inicial do dashboard no Power BI, para que possamos validar o formato e funcionalidades básicas da visualização     | 5     | 2      |
-| ID4   |    Alta   | Como usuário do dashboard, quero visualizar um ranking dos terminais baseado em eficiência, para que eu possa facilmente identificar os melhores e piores desempenhos.     |  4    | 2      |
-| ID5   | Média     | Como usuário do dashboard, quero utilizar filtros básicos para segmentar os dados, para que eu possa analisar informações específicas conforme a necessidade.     |  2     | 2      |
-| ID6   | Média   | Como desenvolvedor backend, quero integrar o código Python que manipula os dados com o dataset em CSV, para que o sistema funcione de forma integrada e automatizada.     | 3      | 2      |
+| ID1   |    Alta   | Como analista, quero preparar e disponibilizar o dataset final em formato definido (CSV), para que ele esteja pronto para ser utilizado no desenvolvimento do projeto.     | 2        |      
+| ID2   | Média     | Como analista, quero filtrar os dados relevantes para as análises, para que o projeto trabalhe somente com informações úteis e otimize o processamento.     | 4       |     
+| ID3   |  Alta     | Como desenvolvedor de BI, quero construir um protótipo inicial do dashboard no Power BI, para que possamos validar o formato e funcionalidades básicas da visualização     | 5     | 
+| ID4   |    Alta   | Como usuário do dashboard, quero visualizar um ranking dos terminais baseado em eficiência, para que eu possa facilmente identificar os melhores e piores desempenhos.     |  4    | 
+| ID5   | Média     | Como usuário do dashboard, quero utilizar filtros básicos para segmentar os dados, para que eu possa analisar informações específicas conforme a necessidade.     |  2     |
+| ID6   | Média   | Como desenvolvedor backend, quero integrar o código Python que manipula os dados com o dataset em CSV, para que o sistema funcione de forma integrada e automatizada.     | 3      |
 
 
 ---
