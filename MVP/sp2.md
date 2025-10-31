@@ -61,14 +61,6 @@ Precisa visualizar o desempenho e eficiência entre terminais portuários em das
 
 ---
 
-## 📅 Sprint(s) Relacionadas
-| Sprint | Entregas Principais                          | Status   |
-|--------|----------------------------------------------|----------|
-| 01     | Extração de dados, limpeza, normalização, merge e dataset inicial consolidado.                        | Concluído|
-| 02     |  Implementação de indicadores de eficiência, ranking e protótipo em Power BI.                        | A fazer |
-| 03     |  Análises de tempos de operação e paradas, módulo de cargas movimentadas, testes de usabilidade, documentação final, apresentação e publicação do projeto no GitHub.                        | Planejado |
-
----
 
 ## 📊 Critérios de Aceitação
 - Dataset final consolidado, limpo e completo.
@@ -81,9 +73,11 @@ Precisa visualizar o desempenho e eficiência entre terminais portuários em das
 ---
 
 ## 📈 Métricas de Validação
-- Feedback qualitativo sobre clareza e usabilidade da base.
-- Confirmação de que a base atende às primeiras necessidades de análise (indicadores na próxima sprint).
-
+-Correta execução de filtros e rankings (validação técnica).
+- Consistência e completude dos dados (sem valores nulos nas colunas-chave).
+- Feedback qualitativo positivo do time sobre clareza dos indicadores e visualizações.
+- Validação do protótipo Power BI junto a analistas e gestores.
+- 
 ---
 
 ## 🚀 Próximos Passos
