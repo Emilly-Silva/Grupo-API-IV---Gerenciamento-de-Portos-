@@ -73,11 +73,11 @@ Precisa visualizar o desempenho e eficiência entre terminais portuários em das
 ---
 
 ## 📈 Métricas de Validação
--Correta execução de filtros e rankings (validação técnica).
+- Correta execução de filtros e rankings (validação técnica).
 - Consistência e completude dos dados (sem valores nulos nas colunas-chave).
 - Feedback qualitativo positivo do time sobre clareza dos indicadores e visualizações.
 - Validação do protótipo Power BI junto a analistas e gestores.
-- 
+  
 ---
 
 ## 🚀 Próximos Passos
