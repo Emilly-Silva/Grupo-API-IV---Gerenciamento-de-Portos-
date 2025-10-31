@@ -80,11 +80,12 @@ Precisa visualizar o desempenho e eficiência entre terminais portuários em das
   
 ---
 
-## 🚀 Próximos Passos
-- Ajustes pós 1ª Sprint.
-- Implementar indicadores de eficiência (tempo médio de operação, produtividade por terminal, etc.).
-- Disponibilizar dataset final em formato CSV no GitHub.
-- Criar protótipo inicial em Power BI para visualização dos resultados. 
+## 🚀 Próximos Passos:
+- Ajustes pós 2ª Sprint.
+- Realizar testes de usabilidade no dashboard Power BI, garantindo que a aplicação funcione corretamente em diferentes dispositivos (desktop, tablet e mobile) e ofereça uma boa experiência ao usuário.
+- Revisar e atualizar os documentos DoR (Definition of Ready) e DoD (Definition of Done), formalizando os critérios de qualidade e conclusão das entregas do projeto.
+- Preparar a apresentação final do projeto em inglês, destacando objetivos, resultados e aprendizados, para apresentação na Feira de Soluções e a stakeholders internacionais.
+- Publicar o projeto completo e documentado no GitHub, incluindo código-fonte, datasets, dashboards e documentação técnica, assegurando transparência e acessibilidade para futuras evoluções do PortInsight.
 
 ---
 
