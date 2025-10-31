@@ -71,9 +71,12 @@ Precisa visualizar o desempenho e eficiência entre terminais portuários em das
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir a geração de uma base inicial consolidada (Carga + Atracação).
-- O sistema deve registrar corretamente o lead time de atracação em horas.
-- Métricas coletadas: completude dos dados (sem valores ausentes nas colunas-chave) e consistência de datas/IDs.
+- Dataset final consolidado, limpo e completo.
+- Filtros funcionais por terminal, período e operação.
+- Ranking de eficiência operacional disponível.
+- Backend em Python integrado e testado.
+- Protótipo Power BI funcional e conectado à base.
+- Indicadores de eficiência definidos e documentados.
 
 ---
 
