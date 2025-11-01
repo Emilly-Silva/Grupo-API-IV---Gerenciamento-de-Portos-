@@ -64,19 +64,22 @@ O projeto tem como objetivo ajudar e facilitar na utilização da plataforma Git
 | 2    |  Alta      |  Como analista, quero definir indicadores de eficiência relevantes para o projeto, para que as análises futuras sejam focadas em métricas importantes e validadas pelo cliente.                                                                    | 2       |   1   |
 | 3    |    Média    | Como desenvolvedor, quero criar e configurar o repositório no GitHub com README inicial, para que o time tenha um ambiente organizado para versionamento e colaboração.                                               |  1       | 1      |
 | 4  | Alta      | Como analista de dados, quero extrair os dados da ANTAQ utilizando Google Colab, para que eu possa automatizar o processo de obtenção dos dados para análise.                                                                                                                                                     |   2    | 1    |
-| 5  |  Média    | Como analista de dados, quero limpar e normalizar os dados extraídos, para que a base inicial esteja pronta e confiável para ser utilizada nas análises.                                                                                                                                                     |  2     | 1    |
-| 6   |    Alta   | Como analista, quero preparar e disponibilizar o dataset final em formato definido (CSV), para que ele esteja pronto para ser utilizado no desenvolvimento do projeto.     | 2        | 2      |
-| 7   | Média     | Como analista, quero filtrar os dados relevantes para as análises, para que o projeto trabalhe somente com informações úteis e otimize o processamento.     | 4       | 2      |
-| 8   |  Alta     | Como desenvolvedor de BI, quero construir um protótipo inicial do dashboard no Power BI, para que possamos validar o formato e funcionalidades básicas da visualização     | 5     | 2      |
-| 9   |    Alta   | Como usuário do dashboard, quero visualizar um ranking dos terminais baseado em eficiência, para que eu possa facilmente identificar os melhores e piores desempenhos.     |  4    | 2      |
-| 10   | Média     | Como usuário do dashboard, quero utilizar filtros básicos para segmentar os dados, para que eu possa analisar informações específicas conforme a necessidade.     |  2     | 2      |
-| 11   | Média   | Como desenvolvedor backend, quero integrar o código Python que manipula os dados com o dataset em CSV, para que o sistema funcione de forma integrada e automatizada.     | 3      | 2      |
+| 5  |  Média    | Como analista de dados, quero limpar e normalizar os dados extraídos, para que a base inicial esteja pronta e confiável para ser utilizada nas análises.                                                                                                                                                    |  2     | 1    |
+| 6| Alta           | Como analista, quero visualizar a distribuição da carga por natureza, volume e destino de forma interativa, para identificar as categorias de carga predominantes e seus tempos de operação.                         | 3              |
+| 7 | Alta           | Como analista de logística, quero observar a evolução do volume de carga movimentada ao longo dos anos, para tomar decisões baseadas nas tendências de movimentação de carga.                                        | 5              |
+| 8 | Alta           | Como gerente de operações, quero analisar a eficiência operacional (tempo de operação) e comparar os resultados ao longo do tempo, para identificar pontos de melhoria e otimizar os processos.                      | 5              |
+| 9 | Média          | Como analista de portos, quero comparar o tempo médio de espera entre os principais portos, para identificar quais portos apresentam os maiores desafios em termos de tempo de espera e tomar decisões estratégicas. | 4              |
+| 10 | Alta           | Como desenvolvedor, quero implementar gráficos interativos de linha e barra para a visualização de tendências de carga e tempo de operação, para facilitar a análise visual das informações.                         | 6              |
+| 11 | Baixa          | Como analista, quero gerar relatórios de performance em formato PDF ou CSV, para facilitar o compartilhamento das informações com as partes interessadas.                                                            | 4              |
 | 12   | Alta      | Como analista de dados, quero incluir análises detalhadas dos tempos de operação e paradas portuárias, para que possamos entender melhor os gargalos e tempos de espera.     | 5      | 3     |
 | 13   |  Alta        | Como usuário do dashboard, quero visualizar informações sobre as principais cargas movimentadas nos portos, para que eu possa analisar os tipos de cargas e suas movimentações.     | 5       | 3      |
 | 14   |    Alta | Como tester, quero validar que o dashboard funciona bem em diferentes dispositivos e é fácil de usar, para que os usuários tenham uma boa experiência independente do acesso.     | 2         | 3      |
 | 15   | Média     | Como gerente de projeto, quero entregar os documentos DoR e DoD revisados e atualizados, para que o processo esteja formalizado e claro para todos.     | 2         | 3      |
 | 16   | Baixa     | Como responsável pela comunicação, quero preparar uma apresentação final em inglês, para que possamos apresentar o projeto para a Feira de Soluções e demais stakeholders.     | 1        | 3      |
 | 17   |    Baixa   | Como desenvolvedor, quero publicar o projeto completo no GitHub, para que ele fique acessível e documentado para futuras consultas ou evoluções.     | 1        | 3      |
+
+
+
 
 
 
