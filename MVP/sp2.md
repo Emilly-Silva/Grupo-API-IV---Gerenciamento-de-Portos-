@@ -51,13 +51,12 @@ Precisa visualizar o desempenho e eficiência entre terminais portuários em das
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | Prioridade   | User Story | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| ID1   |    Alta   | Como analista, quero preparar e disponibilizar o dataset final em formato definido (CSV), para que ele esteja pronto para ser utilizado no desenvolvimento do projeto.     | 2        |      
-| ID2   | Média     | Como analista, quero filtrar os dados relevantes para as análises, para que o projeto trabalhe somente com informações úteis e otimize o processamento.     | 4       |     
-| ID3   |  Alta     | Como desenvolvedor de BI, quero construir um protótipo inicial do dashboard no Power BI, para que possamos validar o formato e funcionalidades básicas da visualização     | 5     | 
-| ID4   |    Alta   | Como usuário do dashboard, quero visualizar um ranking dos terminais baseado em eficiência, para que eu possa facilmente identificar os melhores e piores desempenhos.     |  4    | 
-| ID5   | Média     | Como usuário do dashboard, quero utilizar filtros básicos para segmentar os dados, para que eu possa analisar informações específicas conforme a necessidade.     |  2     |
-| ID6   | Média   | Como desenvolvedor backend, quero integrar o código Python que manipula os dados com o dataset em CSV, para que o sistema funcione de forma integrada e automatizada.     | 3      |
-
+| 6| Alta           | Como analista, quero visualizar a distribuição da carga por natureza, volume e destino de forma interativa, para identificar as categorias de carga predominantes e seus tempos de operação.                         | 3              | 2
+| 7 | Alta           | Como analista de logística, quero observar a evolução do volume de carga movimentada ao longo dos anos, para tomar decisões baseadas nas tendências de movimentação de carga.                                        | 5              | 2
+| 8 | Alta           | Como gerente de operações, quero analisar a eficiência operacional (tempo de operação) e comparar os resultados ao longo do tempo, para identificar pontos de melhoria e otimizar os processos.                      | 5              | 2
+| 9 | Média          | Como analista de portos, quero comparar o tempo médio de espera entre os principais portos, para identificar quais portos apresentam os maiores desafios em termos de tempo de espera e tomar decisões estratégicas. | 4              | 2
+| 10 | Alta           | Como gestor de operações, quero implementar gráficos interativos de linha e barra para a visualização de tendências de carga e tempo de operação, para facilitar a análise visual das informações.                         | 6              | 2
+| 11 | Baixa          | Como analista, quero gerar relatórios de performance em formato PDF ou CSV, para facilitar o compartilhamento das informações com as partes interessadas.                                                            | 4              | 2
 
 ---
 
