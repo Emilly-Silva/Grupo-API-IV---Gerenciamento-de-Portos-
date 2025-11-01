@@ -51,12 +51,12 @@ Precisa visualizar o desempenho e eficiência entre terminais portuários em das
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | Prioridade   | User Story | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| 6| Alta           | Como analista, quero visualizar a distribuição da carga por natureza, volume e destino de forma interativa, para identificar as categorias de carga predominantes e seus tempos de operação.                         | 3              | 2
-| 7 | Alta           | Como analista de logística, quero observar a evolução do volume de carga movimentada ao longo dos anos, para tomar decisões baseadas nas tendências de movimentação de carga.                                        | 5              | 2
-| 8 | Alta           | Como gerente de operações, quero analisar a eficiência operacional (tempo de operação) e comparar os resultados ao longo do tempo, para identificar pontos de melhoria e otimizar os processos.                      | 5              | 2
-| 9 | Média          | Como analista de portos, quero comparar o tempo médio de espera entre os principais portos, para identificar quais portos apresentam os maiores desafios em termos de tempo de espera e tomar decisões estratégicas. | 4              | 2
-| 10 | Alta           | Como gestor de operações, quero implementar gráficos interativos de linha e barra para a visualização de tendências de carga e tempo de operação, para facilitar a análise visual das informações.                         | 6              | 2
-| 11 | Baixa          | Como analista, quero gerar relatórios de performance em formato PDF ou CSV, para facilitar o compartilhamento das informações com as partes interessadas.                                                            | 4              | 2
+| ID1| Alta           | Como analista, quero visualizar a distribuição da carga por natureza, volume e destino de forma interativa, para identificar as categorias de carga predominantes e seus tempos de operação.                         | 3              | 2
+| ID2 | Alta           | Como analista de logística, quero observar a evolução do volume de carga movimentada ao longo dos anos, para tomar decisões baseadas nas tendências de movimentação de carga.                                        | 5              | 2
+| ID3 | Alta           | Como gerente de operações, quero analisar a eficiência operacional (tempo de operação) e comparar os resultados ao longo do tempo, para identificar pontos de melhoria e otimizar os processos.                      | 5              | 2
+| ID4 | Média          | Como analista de portos, quero comparar o tempo médio de espera entre os principais portos, para identificar quais portos apresentam os maiores desafios em termos de tempo de espera e tomar decisões estratégicas. | 4              | 2
+| ID5 | Alta           | Como gestor de operações, quero implementar gráficos interativos de linha e barra para a visualização de tendências de carga e tempo de operação, para facilitar a análise visual das informações.                         | 6              | 2
+| ID6 | Baixa          | Como analista, quero gerar relatórios de performance em formato PDF ou CSV, para facilitar o compartilhamento das informações com as partes interessadas.                                                            | 4              | 2
 
 ---
 
