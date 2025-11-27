@@ -7,25 +7,22 @@ O objetivo validado: entregar uma versão mais madura do dashboard e dos artefat
 ---
 
 ## 📝 Descrição da Solução
-Nesta primeira entrega, foi desenvolvido um pipeline de tratamento de dados no Google Colab que:
-- Extrai e organiza dados das bases AnoCarga e AnoAtracação (2021 a 2025).
-- Seleciona apenas colunas de interesse para análises.
-- Calcula o lead time de atracação (em horas).
-- Realiza a correlação entre cargas e atracações (via IDAtracacao).
-- Constrói um dataset final consolidado com códigos de país de destino, mercadoria e cidade de origem no Brasil.
-  
-**Funcionalidades principais incluídas:**
-- Extração e pré-processamento de dados da ANTAQ.
-- Cálculo do tempo médio de atracação.
-- Junção de dicionários auxiliares (códigos de país, mercadoria e cidade).
-- Geração de dataset inicial unificado.
+A Sprint 3 incluiu entregas técnicas, funcionais e documentais, com foco em usabilidade e visibilidade de informações essenciais:
 
-**Limitações conhecidas:**
-- Indicadores de eficiência ainda não foram implementados (ficam para a próxima etapa).
-- Base consolidada contém apenas dados selecionados (escopo reduzido).
+## Funcionalidades desenvolvidas
+- Módulo de análises de tempos de operação e paradas portuárias, permitindo identificar gargalos e tempos de espera.
+- Visualização das principais cargas movimentadas, facilitando análises por tipo de carga e sua movimentação ao longo do período.
+- Validação de responsividade do dashboard, garantindo uso em diferentes dispositivos (desktop, tablet e mobile).
+- Revisão e atualização dos documentos DoR e DoD, garantindo alinhamento e clareza de critérios.
+- Preparação da apresentação final em inglês, para a Feira de Soluções e stakeholders.
+- Publicação do projeto no GitHub, deixando todo o material acessível, rastreável e devidamente documentado.
 
-**Escopo reduzido:**
-- Entrega mínima de uma base limpa e correlacionada, servindo como alicerce para indicadores e dashboards futuros.
+## Limitações conhecidas
+- Alguns dashboards ainda podem evoluir em termos de performance e refinamento visual.
+
+## Escopo entregue
+- Foco na visualização clara e funcional dos dados de operações e cargas.
+- Entregas finais que consolidam o projeto para consulta externa e apresentações.
   
 ---
 
