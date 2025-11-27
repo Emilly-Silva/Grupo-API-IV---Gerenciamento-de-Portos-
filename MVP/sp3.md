@@ -7,6 +7,9 @@
 ## 🎯 Objetivo do MVP
 - Nesta sprint, o foco foi aprofundar as análises operacionais, ampliar a visão sobre cargas movimentadas e garantir que o dashboard estivesse funcional, responsivo e validado pelos usuários, além de avançar na documentação, apresentação final e publicação do projeto.
 O objetivo validado: entregar uma versão mais madura do dashboard e dos artefatos de documentação, possibilitando ao cliente visualizar dados relevantes, analisar gargalos e consultar o projeto de maneira acessível.
+- A 3ª Sprint do projeto PortInsight foi concluída com sucesso, consolidando importantes avanços técnicos e analíticos. Durante esta fase, a equipe conseguiu realizar as entregas planejadas, incluindo a implementação de uma nova tela no Power BI, que permite a análise detalhada de dois tipos de carga — soja e açúcares. Nessa tela, foi possível integrar dados sobre o peso da carga, o número de atracações de navios com essas cargas entre 2021 e 2025, e o tempo médio de operação entre os principais portos.
+Com as entregas concluídas e a ferramenta cada vez mais robusta, o projeto avança para as etapas finais, com foco na preparação da apresentação para a Feira de Soluções e na documentação do projeto, que será essencial para a conclusão e avaliação do trabalho.
+
 
 ---
 
