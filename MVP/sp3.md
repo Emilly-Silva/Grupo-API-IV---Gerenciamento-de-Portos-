@@ -39,14 +39,14 @@ Recebem material formalizado, documentação clara e apresentação em inglês.
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
-| ID  | User Story                                                                 | Prioridade | Estimativa |
+| ID  | User Story                                                                 | Prioridade | Estimativa (Dias) |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| ID1 | Alta           | Como cliente, quero incluir análises detalhadas dos tempos de operação e paradas portuárias, para que possamos entender melhor os gargalos e tempos de espera.         | 5             
-| ID2 | Alta           | Como cliente, quero visualizar informações sobre as principais cargas movimentadas nos portos, para que eu possa analisar os tipos de cargas e suas movimentações. | 5             
-| ID3 | Alta           | Como cliente, quero validar que o dashboard funciona bem em diferentes dispositivos e é fácil de usar, para que os usuários tenham uma boa experiência independente do acesso.    | 2             
-| ID4| Média          | Como cliente, quero entregar os documentos DoR e DoD revisados e atualizados, para que o processo esteja formalizado e claro para todos.                              | 2             
-| ID5 | Baixa          | Como cliente, quero preparar uma apresentação final em inglês, para que possamos apresentar o projeto para a Feira de Soluções e demais stakeholders.       | 1             
-| ID6 | Baixa          | Como cliente, quero publicar o projeto completo no GitHub, para que ele fique acessível e documentado para futuras consultas ou evoluções.                             | 1              
+| ID1 | Como cliente, quero incluir análises detalhadas dos tempos de operação e paradas portuárias, para que possamos entender melhor os gargalos e tempos de espera. | Alta       | 5             
+| ID2 | Como cliente, quero visualizar informações sobre as principais cargas movimentadas nos portos, para que eu possa analisar os tipos de cargas e suas movimentações. | Alta     | 5             
+| ID3 | Como cliente, quero validar que o dashboard funciona bem em diferentes dispositivos e é fácil de usar, para que os usuários tenham uma boa experiência independente do acesso. | Alta    | 2             
+| ID4| Como cliente, quero entregar os documentos DoR e DoD revisados e atualizados, para que o processo esteja formalizado e claro para todos.  | Média.      | 2             
+| ID5 | Como cliente, quero preparar uma apresentação final em inglês, para que possamos apresentar o projeto para a Feira de Soluções e demais stakeholders.  | Baixa       | 1             
+| ID6 | Como cliente, quero publicar o projeto completo no GitHub, para que ele fique acessível e documentado para futuras consultas ou evoluções.  | Baixa        | 1              
 
 
 ---
