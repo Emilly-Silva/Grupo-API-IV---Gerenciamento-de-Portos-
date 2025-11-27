@@ -27,11 +27,9 @@ A Sprint 3 incluiu entregas técnicas, funcionais e documentais, com foco em usa
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Analista de Dados Portuários:**
-Suas necessidades consistem em ter acesso a dados organizados e confiáveis para análises. Eliminando a necessidade de limpar e padronizar manualmente bases brutas da ANTAQ.
-
-- **Gestor Portuário / Tomador de Decisão:**
-Suas necessidades consistem em acompanhar métricas de eficiência operacional. Passando a ter uma base inicial estruturada para gerar relatórios de desempenho.   
+** Analista de Dados Portuários:** agora conta com análises prontas para uso e visualização mais clara de tempos e cargas.
+** Gestor Portuário:** passa a ter acesso a dashboards funcionalmente validados em vários dispositivos, auxiliando na tomada de decisão.
+** Stakeholders Externos:** recebem material formalizado, documentação clara e apresentação em inglês.  
 
 ---
 
