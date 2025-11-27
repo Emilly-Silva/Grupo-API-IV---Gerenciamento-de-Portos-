@@ -55,33 +55,21 @@ Recebem material formalizado, documentação clara e apresentação em inglês.
 
 ---
 
-## 📅 Sprint(s) Relacionadas
-| Sprint | Entregas Principais                          | Status   |
-|--------|----------------------------------------------|----------|
-| 01     | Extração de dados, limpeza, normalização, merge e dataset inicial consolidado.                        | Concluído|
-| 02     |  Implementação de indicadores de eficiência, ranking e protótipo em Power BI.                        | A fazer |
-| 03     |  Análises de tempos de operação e paradas, módulo de cargas movimentadas, testes de usabilidade, documentação final, apresentação e publicação do projeto no GitHub.                        | Planejado |
-
----
-
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir a geração de uma base inicial consolidada (Carga + Atracação).
-- O sistema deve registrar corretamente o lead time de atracação em horas.
-- Métricas coletadas: completude dos dados (sem valores ausentes nas colunas-chave) e consistência de datas/IDs.
+- Usuários conseguem visualizar corretamente os tempos de operação/espera e paradas.
+- Dashboard exibindo as principais categorias de cargas movimentadas.
+- Interface funcionando em diferentes dispositivos (testes de responsividade).
+- Documentos DoR e DoD revisados e aprovados.
+- Repositório do GitHub acessível com arquivos completos.
+- Apresentação final entregue em inglês.
 
 ---
 
 ## 📈 Métricas de Validação
-- Feedback qualitativo sobre clareza e usabilidade da base.
-- Confirmação de que a base atende às primeiras necessidades de análise (indicadores na próxima sprint).
-
----
-
-## 🚀 Próximos Passos
-- Ajustes pós 1ª Sprint.
-- Implementar indicadores de eficiência (tempo médio de operação, produtividade por terminal, etc.).
-- Disponibilizar dataset final em formato CSV no GitHub.
-- Criar protótipo inicial em Power BI para visualização dos resultados. 
+- Feedback positivo dos usuários sobre usabilidade do dashboard.
+- Confirmação da clareza das análises de tempos e cargas.
+- Validação do acesso e navegação em múltiplos dispositivos.
+- Aprovação dos documentos e do repositório final.
 
 ---
 
