@@ -76,4 +76,4 @@ Recebem material formalizado, documentação clara e apresentação em inglês.
 ## 📂 Anexos / Evidências
 | Registro          |  Histórico | Relatório MVP |
 |-------------------|-----------|-----------|
-| MVP 3ª Sprint |  [Print](../docs%20evidences/rg3.md) | A Fazer
+| MVP 3ª Sprint |  [Print](../docs%20evidences/rg3.md) | Concluído
