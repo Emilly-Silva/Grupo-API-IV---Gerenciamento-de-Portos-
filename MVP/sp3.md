@@ -9,7 +9,7 @@ O objetivo validado: entregar uma versão mais madura do dashboard e dos artefat
 ## 📝 Descrição da Solução
 A Sprint 3 incluiu entregas técnicas, funcionais e documentais, com foco em usabilidade e visibilidade de informações essenciais:
 
-## Funcionalidades desenvolvidas
+**Funcionalidades desenvolvidas**
 - Módulo de análises de tempos de operação e paradas portuárias, permitindo identificar gargalos e tempos de espera.
 - Visualização das principais cargas movimentadas, facilitando análises por tipo de carga e sua movimentação ao longo do período.
 - Validação de responsividade do dashboard, garantindo uso em diferentes dispositivos (desktop, tablet e mobile).
@@ -17,10 +17,10 @@ A Sprint 3 incluiu entregas técnicas, funcionais e documentais, com foco em usa
 - Preparação da apresentação final em inglês, para a Feira de Soluções e stakeholders.
 - Publicação do projeto no GitHub, deixando todo o material acessível, rastreável e devidamente documentado.
 
-## Limitações conhecidas
+**Limitações conhecidas**
 - Alguns dashboards ainda podem evoluir em termos de performance e refinamento visual.
 
-## Escopo entregue
+**Escopo entregue**
 - Foco na visualização clara e funcional dos dados de operações e cargas.
 - Entregas finais que consolidam o projeto para consulta externa e apresentações.
   
