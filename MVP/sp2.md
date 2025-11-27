@@ -1,4 +1,8 @@
+<span align="center"> 
+
 # 📌 MVP - ANÁLISE DE EFICIÊNCIA DE TERMINAIS PORTUÁRIOS - 2ª Sprint
+
+</span>
 
 ## 🎯 Objetivo do MVP
 - Com base na estrutura de dados desenvolvida na 1ª Sprint, esta segunda entrega teve como foco consolidar e disponibilizar o dataset final, implementar filtros e rankings de terminais, integrar o backend em Python à base de dados, e criar o protótipo inicial da plataforma de BI no Power BI.
