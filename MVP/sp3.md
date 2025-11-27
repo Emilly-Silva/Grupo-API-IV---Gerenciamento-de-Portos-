@@ -76,4 +76,4 @@ Recebem material formalizado, documentação clara e apresentação em inglês.
 ## 📂 Anexos / Evidências
 | Registro          |  Histórico | Relatório MVP | Pesquisa Técnica 
 |-------------------|-----------|-----------|----------|
-| MVP 3ª Sprint |  [Print](../docs%20evidences/rg3.md) | [RelatorioMVP_3.Sprint (1).docx](https://github.com/user-attachments/files/23808707/RelatorioMVP_3.Sprint.1.docx) | [SafrasAçúcareseSoja_SP3](https://github.com/user-attachments/files/23808779/arquivo_formatado_abnt.docx) |
+| MVP 3ª Sprint |  [Print](../docs%20evidences/rg3.md) | [RelatorioMVP_3.Sprint (1).docx](https://github.com/user-attachments/files/23808707/RelatorioMVP_3.Sprint.1.docx) | [SafraAçúcareSoja_SP3](https://github.com/user-attachments/files/23808779/arquivo_formatado_abnt.docx) |
