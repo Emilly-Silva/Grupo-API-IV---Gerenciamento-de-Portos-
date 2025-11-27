@@ -27,11 +27,11 @@ A Sprint 3 incluiu entregas técnicas, funcionais e documentais, com foco em usa
 ---
 
 ## 👥 Personas / Usuários-Alvo
-** Analista de Dados Portuários:**
+**Analista de Dados Portuários:**
 Agora conta com análises prontas para uso e visualização mais clara de tempos e cargas.
-** Gestor Portuário:** 
+**Gestor Portuário:** 
 Passa a ter acesso a dashboards funcionalmente validados em vários dispositivos, auxiliando na tomada de decisão.
-** Stakeholders Externos:**
+**Stakeholders Externos:**
 Recebem material formalizado, documentação clara e apresentação em inglês.  
 
 ---
