@@ -1,4 +1,8 @@
+<span align="center"> 
+
 # 📌 MVP - ANÁLISE DE EFICIÊNCIA DE TERMINAIS PORTUÁRIOS - 3ª Sprint
+
+</span>
 
 ## 🎯 Objetivo do MVP
 - Nesta sprint, o foco foi aprofundar as análises operacionais, ampliar a visão sobre cargas movimentadas e garantir que o dashboard estivesse funcional, responsivo e validado pelos usuários, além de avançar na documentação, apresentação final e publicação do projeto.
